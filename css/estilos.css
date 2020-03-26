@@ -12,3 +12,12 @@ body
     border: 1px solid #ccc;
     margin: 0 auto;
 }
+#cabecera
+{
+    color: #F14520;
+    font-size: 2rem;
+}
+#subtitulo
+{
+    font-size: 1rem;
+}
